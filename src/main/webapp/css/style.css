@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+
+.footer {
+	background-color:green;
+	color:white;
+	text-align:center;
+	padding:3px;	
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.warning {
+	background-color:yellow;
+	color: black;
+	
+}
+
+
+#statusId {
+	background-color:green;
+	color:white;
+	text-align:left;
+	
+}
+
+
+table, th, td {
+	border: 1px solid black;
+}
+
+input {
+	border: 3px double #CCCCCC
+}
+
+th, td {
+	padding:12px;
+}
+
